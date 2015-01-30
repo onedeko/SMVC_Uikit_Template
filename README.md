@@ -9,4 +9,5 @@ Simple uikit integration Template for Simple MVC Framework
 ````
 \helpers\session::set('template', 'sws_default');
 ````
-5. That's all
+
+That's all
