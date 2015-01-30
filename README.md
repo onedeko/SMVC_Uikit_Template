@@ -1,5 +1,5 @@
 # SMVC_Uikit_Template
-Simple Template for Simple MVC Framework
+Simple uikit integration Template for Simple MVC Framework
 
 ## Installation
 1. Download the SMVC Uikit Template
